@@ -1,50 +1,50 @@
 let clientes = [
   {
-    "imagen": "Eder.jpg",
-    "nombre": "Eder",
-    "descripcion": "Famoso racista veterano con Sida",
+    "imagen": "descarga.png",
+    "nombre": "ejercicio  de biblioteca",
+    "descripcion": `<a href="https://github.com/IdrisOmega/ejerciciobiblioteca">biblioteca</a>`,
     "id": 1
   },
   {
-    "imagen": "descarga.jpg",
-    "nombre": "Javier",
-    "descripcion": "Presidente de Argentina PAPA",
+    "imagen": "descarga.png",
+    "nombre": "ejercicio tres en raya",
+    "descripcion": `<a href="https://github.com/IdrisOmega/tres-en-raya">tre en raya</a>`,
     "id": 2
   },
   {
-    "imagen": "Adriano.jpg",
-    "nombre": "Adriano",
-    "descripcion": "Con la inteligencia de L y la masa de un palo",
+    "imagen": "descarga.png",
+    "nombre": "ejercicio de biblioteca",
+    "descripcion": `<a href="https://github.com/IdrisOmega/biblioteca1">biblioteca 1</a>`,
     "id": 3
   },
   {
-    "imagen": "Rober.jpg",
-    "nombre": "Rober",
-    "descripcion": "Gran profe que me dara un 10 por crak",
+    "imagen": "descarga.png",
+    "nombre": "ejercicio git",
+    "descripcion": `<a href="https://github.com/IdrisOmega/ejercicio-git">git</a>`,
     "id": 4
   },
   {
-    "imagen": "Idris.jpg",
-    "nombre": "Idris",
-    "descripcion": "Es un papucho",
+    "imagen": "descarga.png",
+    "nombre": "ejercicio cafetera",
+    "descripcion": `<a href="https://github.com/IdrisOmega/cafetera">cafetera</a>`,
     "id": 5
   },
   {
-    "imagen": "Santiago.jpg",
-    "nombre": "Santiago",
-    "descripcion": "Don John Santiago Wii",
+    "imagen": "descarga.png",
+    "nombre": "otra biblioteca",
+    "descripcion": `<a href="https://github.com/IdrisOmega/ejerciciobiblioteca">biblioteca1</a>`,
     "id": 6
   },
   {
-    "imagen": "Ivan.jpg",
-    "nombre": "Ivan",
-    "descripcion": "Ex convicto asaltacunas",
+    "imagen": "descarga.png",
+    "nombre": "ejercicio cartas",
+    "descripcion": `<a href="https://github.com/IdrisOmega/cartas-html">cartas</a>`,
     "id": 7
   },
   {
-    "imagen": "Birham.jpg",
-    "nombre": "Birham",
-    "descripcion": "Sucesor del salvador de la humanidad",
+    "imagen": "descarga.png",
+    "nombre": "ejercicio barra de busqueda",
+    "descripcion": `<a href="https://github.com/IdrisOmega/barra-de-busqueda-con-comandos-a-adidos">barra busqueda</a>`,
     "id": 8
   }
 ];
